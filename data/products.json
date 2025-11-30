@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Santa's Crypto Wallet",
+      "price": 34.99,
+      "description": "Pixel art Santa with Bitcoin bling and diamond hands. For the HODLers who believe in Christmas miracles.",
+      "image": "/products/santa-crypto-wallet.png",
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 2,
+      "name": "New Year, New Me (Same Phone)",
+      "price": 32.99,
+      "description": "When your New Year's resolution is screen time reduction but you're reading this on your phone right now.",
+      "image": "/products/new-year-same-phone.png",
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 3,
+      "name": "Cyber Monday Survivor",
+      "price": 36.99,
+      "description": "Battle-tested warrior who survived the 3am cart checkout wars. Respect the hustle.",
+      "image": "/products/cyber-monday-survivor.png",
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 4,
+      "name": "Ugly Sweater 404",
+      "price": 33.99,
+      "description": "Error: Traditional ugly sweater not found. This cyberpunk Christmas glitch is way cooler anyway.",
+      "image": "/products/ugly-sweater-404.png",
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 5,
+      "name": "Main Character Energy 2025",
+      "price": 35.99,
+      "description": "Not the side quest. Not the background NPC. You're the MAIN CHARACTER in 2025. Own it.",
+      "image": "/products/main-character-2025.png",
+      "tiktokShopUrl": "#"
+    }
+  ]
+}
