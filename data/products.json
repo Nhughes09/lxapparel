@@ -2,42 +2,92 @@
   "products": [
     {
       "id": 1,
+      "category": "shirts",
       "name": "Santa's Crypto Wallet",
       "price": 34.99,
       "description": "Pixel art Santa with Bitcoin bling and diamond hands. For the HODLers who believe in Christmas miracles.",
       "image": "/products/santa-crypto-wallet.png",
+      "featured": true,
       "tiktokShopUrl": "#"
     },
     {
       "id": 2,
+      "category": "shirts",
       "name": "New Year, New Me (Same Phone)",
       "price": 32.99,
       "description": "When your New Year's resolution is screen time reduction but you're reading this on your phone right now.",
       "image": "/products/new-year-same-phone.png",
+      "featured": true,
       "tiktokShopUrl": "#"
     },
     {
       "id": 3,
+      "category": "shirts",
       "name": "Cyber Monday Survivor",
       "price": 36.99,
       "description": "Battle-tested warrior who survived the 3am cart checkout wars. Respect the hustle.",
       "image": "/products/cyber-monday-survivor.png",
+      "featured": false,
       "tiktokShopUrl": "#"
     },
     {
       "id": 4,
+      "category": "shirts",
       "name": "Ugly Sweater 404",
       "price": 33.99,
       "description": "Error: Traditional ugly sweater not found. This cyberpunk Christmas glitch is way cooler anyway.",
       "image": "/products/ugly-sweater-404.png",
+      "featured": false,
       "tiktokShopUrl": "#"
     },
     {
       "id": 5,
+      "category": "shirts",
       "name": "Main Character Energy 2025",
       "price": 35.99,
       "description": "Not the side quest. Not the background NPC. You're the MAIN CHARACTER in 2025. Own it.",
       "image": "/products/main-character-2025.png",
+      "featured": true,
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 6,
+      "category": "hoodies",
+      "name": "Giga Chad Energy",
+      "price": 59.99,
+      "description": "Unmatched confidence. Maximum gains. Pure alpha energy in hoodie form.",
+      "image": "/products/placeholder-hoodie.png",
+      "featured": true,
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 7,
+      "category": "hoodies",
+      "name": "Sigma Grindset 2025",
+      "price": 64.99,
+      "description": "Stay on your grind. No distractions. Pure focus. The hustle never stops.",
+      "image": "/products/placeholder-hoodie.png",
+      "featured": false,
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 8,
+      "category": "shorts",
+      "name": "Touch Grass",
+      "price": 39.99,
+      "description": "Friendly reminder to go outside. Maybe. Eventually. After one more scroll.",
+      "image": "/products/placeholder-shorts.png",
+      "featured": true,
+      "tiktokShopUrl": "#"
+    },
+    {
+      "id": 9,
+      "category": "shorts",
+      "name": "NPC Energy: 0%",
+      "price": 37.99,
+      "description": "Main character mode activated. No background character vibes allowed.",
+      "image": "/products/placeholder-shorts.png",
+      "featured": false,
       "tiktokShopUrl": "#"
     }
   ]
